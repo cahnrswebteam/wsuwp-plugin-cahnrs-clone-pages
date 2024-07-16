@@ -5,7 +5,7 @@
  * Plugin Name:       CAHNRS Clone Page Templates
  * Plugin URI:        https://cahnrs.wsu.edu/
  * Description:       Allows super admins to clone page templates from other subsites in the same network. 
- * Version:           1.0.1
+ * Version:           1.0.3
  * Author:            CAHNRS Communications
  * Author URI:        https://cahnrs.wsu.edu/
  * Text Domain:       cahnrs-clone-page-templates
@@ -17,7 +17,7 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 //Define the version of this CAHNRS Clone Pages plugin
-define( 'CAHNRSCLONEPAGEVERSION', '1.0.1' );
+define( 'CAHNRSCLONEPAGEVERSION', '1.0.3' );
 
 // Gets CAHNRS Clone Pages plugin URL.
 function _get_cahnrs_clone_pages_plugin_url() {
